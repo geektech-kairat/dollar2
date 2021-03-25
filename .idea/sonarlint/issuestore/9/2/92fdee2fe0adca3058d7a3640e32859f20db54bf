@@ -1,0 +1,12 @@
+
+Z
+java:S1128"8Remove this unused import 'androidx.lifecycle.Observer'.(ÒÁˆÉþÿÿÿÿ8ø¤Á‘†/
+V
+java:S1128
+"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8ø¤Á‘†/
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "root".(¥–Î³8ø¤Á‘†/
+V
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ø¤Á‘†/
+c
+java:S1128"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ8šÄÁ‘†/
